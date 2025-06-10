@@ -2,28 +2,28 @@
 ![](https://komarev.com/ghpvc/?username=sekine-1113)
 
 ## About Me
-comming soon...
+- I'm a graduate student, freelance software engineer.
 
 ## Skills
 
 ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,java,kotlin,html,css&perline=8" />
   </a>
 </p>
 
 ### Frameworks and Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,prisma,django,fastapi,flask,bootstrap,tailwind&perline=8" />
   </a>
 </p>
 
 ### Database and Dev Tools etc
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,mysql,postgres,sqlite,codepen,bash,eclipse,idea,figma,firebase,git,github,nginx,notion,postman,supabase,visualstudio,vscode,windows&perline=8" />
   </a>
 </p>
 
@@ -42,8 +42,6 @@ comming soon...
 </div>
 
 ## Links
-<!--
-* Qiita
-* Zenn
-* はてなブログ
--->
+* [Qiita](https://qiita.com/unasek)
+* [Zenn](https://zenn.dev/sekilice)
+* [Hatena Blog](https://alice-tech.hatenablog.com/)
